@@ -1,1 +1,19 @@
-/* Aquí va el css */
+table td {
+ border:solid,
+}
+
+*h1{
+    size: 48px;
+}
+
+ul{
+    color: #7777;
+}
+
+ol{
+    padding: 24px;
+}
+
+*azul{
+    color: aquamarine;
+}

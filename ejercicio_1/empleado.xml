@@ -1,1 +1,13 @@
-<!-- aqui va el xml, borrar esta línea -->
+<empleado>
+    <nombre>mesi</nombre>
+    <apellidos>chiquito</apellidos>
+    <direccion>
+     <calle>Uria 28</calle>
+     <ciudad>Oviedo</ciudad>
+    </direccion>
+    <departamentos>
+        <departamento>programacion</departamento>
+        <departamento>diseño</departamento>
+        <departamento>análisis</departamento>
+    </departamentos>
+</empleado>
